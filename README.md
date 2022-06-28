@@ -1,4 +1,4 @@
-# Leaderboard - Yukiharu osu！
+# Leaderboard (V1) - Yukiharu osu！
 
 
 This is the Leaderboard of the osu! Yukiharu Private Server
