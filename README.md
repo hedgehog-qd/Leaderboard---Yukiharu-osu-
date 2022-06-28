@@ -5,7 +5,9 @@ This is the Leaderboard of the osu! Yukiharu Private Server
 The frount end is in HTML and CSS
 The back end is in Python
 
-The code in this branch is of production environment.
+# What's new
+In this branch (V2), we add the function that users can switch to see the leaderboard in the 4 main modes (osu!, osu!taiko, osu!mania, osu!catch)
+The default mode is osu! (auto-switch by redirect)
 
 # How to run
 
